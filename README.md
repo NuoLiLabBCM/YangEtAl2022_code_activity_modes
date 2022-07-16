@@ -4,7 +4,7 @@ MATLAB code to compute activity modes and tSNE embedding of response profiles, Y
 ## Summary
 Analysis code related to Yang W, Tipparaju SL, Chen G, Li N, (2022). Thalamus-driven functional populations in frontal cortex activity supports decision-making.
 
-The 3 demo analysis scripts performs the following:
+The 3 demo analysis scripts perform the following:
 
 - t-SNE embedding of neuronal response profiles (based on PSTH shape)
 - compute activity modes from neuronal population responses.
